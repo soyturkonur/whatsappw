@@ -1,7 +1,7 @@
 # 💬 WhatsAppW Otomatik Araçlarım
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="WhatsApp Otomasyon Demo" width="600">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="WhatsApp Otomasyon Demo" width="200">
 </p>
 
 Basit ama etkili bir **WhatsApp Web otomasyon aracı**.  

@@ -45,7 +45,7 @@ def main():
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     driver.get("https://web.whatsapp.com/")
 
-    print(f"QR kodla giriş bekleniyor")
+    print(f"QR kodla giriş bekleniyor (İşlemin yapacağı mesajlar kısmını arama kısmını kullanmadan aç)")
     try:
         msg_box = find_message_box(driver, timeout=WAIT_FOR_LOGIN)
     except Exception:
